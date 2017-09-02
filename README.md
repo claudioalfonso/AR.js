@@ -1,5 +1,9 @@
 # AR.js - Efficient Augmented Reality for the Web
 
+AR.js é um projeto de realidade aumentada baseada em marcadores que segue os web standart.
+Pode ser integrado ao MapeAR junto com o código leitor de QrCode para ser mais uma opção de leitura de dados em realidade aumentada
+OBS: A plataforma web do mapeAR permite inserir RA em forma de QRCode ou geolocalização, pois gera automáticamente o código qrcode e pega as latitudes e longitudes, como integrar a # imagem 3d?
+
 I am focusing hard on making AR for the web a reality.
 This repository is where I publish the code.
 Contact me anytime [@jerome_etienne](https://twitter.com/jerome_etienne).
